@@ -6,6 +6,16 @@
 
 [![Youtube](https://img.youtube.com/vi/2vWF7pqvT88/0.jpg)](https://youtu.be/2vWF7pqvT88)
 
+* Develop environment.
+
+- Flutter SDK Version: 1.12.13+hotfix.9
+- Flutter: 45.1.1
+- Dart: 192.7761
+- Xcode Version: 11.4.1
+- Android Studio: 3.6.2
+- OS Version: MacOS Catalina 10.15.4
+
+#Flutter, #SignUpPhone, #Chatapp
 
 ## Getting Started
 

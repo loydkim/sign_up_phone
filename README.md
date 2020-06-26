@@ -1,6 +1,6 @@
 # signupphone
 
-A new Flutter application.
+<img src="https://github.com/loydkim/sign_up_phone/blob/master/sign_up_phone_intro.gif" width="300" height="560">
 
 ** Please click the Image to know how it works **
 

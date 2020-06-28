@@ -15,7 +15,7 @@
 - Android Studio: 3.6.2
 - OS Version: MacOS Catalina 10.15.4
 
-#Flutter, #SignUpPhone, #Chatapp
+#Flutter, #SignUpPhone, #SignUpPhone
 
 ## Getting Started
 
